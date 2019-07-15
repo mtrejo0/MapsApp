@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f66b9fd3d20d6b30e5aedea4952978bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/permissionsdispatcher-3.2.0.aar/3d8e84fe9ce3d9dc816b0a99d1b78420/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/6ed5666441e81400cb539aa034ef2e11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/35b3b1dac94626a1d352c4bb539700ed/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/72bc8f7fbd38259f0d7ab49a8bb1044f/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6716735d6c97ae8f52e0595be28eb022/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c00393b4070af2c5b03c1e0e67a0ba25/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/54fc50a954fcf6c348f358a42dfe8896/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/11f155950535085883d4d3dcd2d9df7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/41de7c313da0bce457477ec9c35d7c49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a912a442fd67beface8ba8f31cdc9dab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/588a090539c16c5318986f37bcd1691d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1b8178b8b1a8bb869c38c6616e35ad05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/67bbdecdb4d69bda8df2522af53819a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7e7d6d6805be97f29eb6b6201cfacc60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/86000fed5bad5017ced5375bae966563/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bea4ee83327912a1c5bca00f67fb0c67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7edd2b77c55a1cabf0ed999908576d08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e19fba405e056f6aa247aeade2c57b70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/73fc95b1b5fc6d876ee5e67b15810c8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0b6b4ca48c867ff9236fe8e18303f18b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4edd122fb3b1141431ccdd505cd1042b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/aed3a6d549fea40545b943199a57ce31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ca033316b13f937659ad03d3fd7dc52a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a914314bfd88b5b82f87d6fb77c02f9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7f5719aede92318390b32c65af6de14a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fcac0e9d66ff5647fabcbd58a593d88f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ba189a38b094171e63a8f9dfec682d33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/119ccf6463841e7cc84d87eb4b863b2a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e1b429f2e9213c0bca6ca2daf5690910/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/86fc906c5d125ff61c5d88d456194231/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5cc2b031807f368aea9a57753b459743/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b5de0f5da4162860617c7ea18f5cede2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3d36336d33a562366719050390e110f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5e7eb16696cfdfe64b99c518f16d9f3c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:7:5-109
+	android:protectionLevel
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:7:72-107
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:7:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:8:5-111
+	android:protectionLevel
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:8:74-109
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:8:17-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#com.example.mapdemo.permission.MAPS_RECEIVE
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:11:22-80
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:14:22-78
+uses-feature#0x00020000
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:16:5-18:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:18:9-32
+application
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:20:5-48:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/35b3b1dac94626a1d352c4bb539700ed/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/35b3b1dac94626a1d352c4bb539700ed/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/72bc8f7fbd38259f0d7ab49a8bb1044f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/72bc8f7fbd38259f0d7ab49a8bb1044f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6716735d6c97ae8f52e0595be28eb022/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6716735d6c97ae8f52e0595be28eb022/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c00393b4070af2c5b03c1e0e67a0ba25/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c00393b4070af2c5b03c1e0e67a0ba25/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/54fc50a954fcf6c348f358a42dfe8896/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/54fc50a954fcf6c348f358a42dfe8896/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ca033316b13f937659ad03d3fd7dc52a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ca033316b13f937659ad03d3fd7dc52a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a914314bfd88b5b82f87d6fb77c02f9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a914314bfd88b5b82f87d6fb77c02f9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ca033316b13f937659ad03d3fd7dc52a/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:24:9-40
+uses-library#org.apache.http.legacy
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:27:9-88
+	android:required
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:27:61-85
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:27:23-60
+activity#com.example.mapdemo.MapDemoActivity
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:30:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:35:27-74
+uses-library#com.google.android.maps
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:39:9-88
+	android:required
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:39:23-46
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:39:47-85
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:41:9-43:59
+	android:value
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:42:13-62
+meta-data#com.google.android.gms.version
+ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:45:9-47:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/54fc50a954fcf6c348f358a42dfe8896/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/54fc50a954fcf6c348f358a42dfe8896/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml:46:13-58
+uses-sdk
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f66b9fd3d20d6b30e5aedea4952978bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f66b9fd3d20d6b30e5aedea4952978bd/AndroidManifest.xml:20:5-44
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/permissionsdispatcher-3.2.0.aar/3d8e84fe9ce3d9dc816b0a99d1b78420/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/permissionsdispatcher-3.2.0.aar/3d8e84fe9ce3d9dc816b0a99d1b78420/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/6ed5666441e81400cb539aa034ef2e11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/6ed5666441e81400cb539aa034ef2e11/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/2b156aa6c384b2f18d90c5bbf95d2c44/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/35b3b1dac94626a1d352c4bb539700ed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/35b3b1dac94626a1d352c4bb539700ed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/72bc8f7fbd38259f0d7ab49a8bb1044f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/72bc8f7fbd38259f0d7ab49a8bb1044f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6716735d6c97ae8f52e0595be28eb022/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6716735d6c97ae8f52e0595be28eb022/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c00393b4070af2c5b03c1e0e67a0ba25/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c00393b4070af2c5b03c1e0e67a0ba25/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/54fc50a954fcf6c348f358a42dfe8896/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/54fc50a954fcf6c348f358a42dfe8896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/11f155950535085883d4d3dcd2d9df7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/11f155950535085883d4d3dcd2d9df7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/41de7c313da0bce457477ec9c35d7c49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/41de7c313da0bce457477ec9c35d7c49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a912a442fd67beface8ba8f31cdc9dab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a912a442fd67beface8ba8f31cdc9dab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/588a090539c16c5318986f37bcd1691d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/588a090539c16c5318986f37bcd1691d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1b8178b8b1a8bb869c38c6616e35ad05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1b8178b8b1a8bb869c38c6616e35ad05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/67bbdecdb4d69bda8df2522af53819a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/67bbdecdb4d69bda8df2522af53819a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7e7d6d6805be97f29eb6b6201cfacc60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7e7d6d6805be97f29eb6b6201cfacc60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/86000fed5bad5017ced5375bae966563/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/86000fed5bad5017ced5375bae966563/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bea4ee83327912a1c5bca00f67fb0c67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bea4ee83327912a1c5bca00f67fb0c67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7edd2b77c55a1cabf0ed999908576d08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7edd2b77c55a1cabf0ed999908576d08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e19fba405e056f6aa247aeade2c57b70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e19fba405e056f6aa247aeade2c57b70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/73fc95b1b5fc6d876ee5e67b15810c8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/73fc95b1b5fc6d876ee5e67b15810c8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0b6b4ca48c867ff9236fe8e18303f18b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0b6b4ca48c867ff9236fe8e18303f18b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4edd122fb3b1141431ccdd505cd1042b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4edd122fb3b1141431ccdd505cd1042b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/aed3a6d549fea40545b943199a57ce31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/aed3a6d549fea40545b943199a57ce31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ca033316b13f937659ad03d3fd7dc52a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ca033316b13f937659ad03d3fd7dc52a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a914314bfd88b5b82f87d6fb77c02f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a914314bfd88b5b82f87d6fb77c02f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7f5719aede92318390b32c65af6de14a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7f5719aede92318390b32c65af6de14a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fcac0e9d66ff5647fabcbd58a593d88f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fcac0e9d66ff5647fabcbd58a593d88f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ba189a38b094171e63a8f9dfec682d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ba189a38b094171e63a8f9dfec682d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/119ccf6463841e7cc84d87eb4b863b2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/119ccf6463841e7cc84d87eb4b863b2a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e1b429f2e9213c0bca6ca2daf5690910/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e1b429f2e9213c0bca6ca2daf5690910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/86fc906c5d125ff61c5d88d456194231/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/86fc906c5d125ff61c5d88d456194231/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5cc2b031807f368aea9a57753b459743/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5cc2b031807f368aea9a57753b459743/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b5de0f5da4162860617c7ea18f5cede2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b5de0f5da4162860617c7ea18f5cede2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3d36336d33a562366719050390e110f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3d36336d33a562366719050390e110f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5e7eb16696cfdfe64b99c518f16d9f3c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5e7eb16696cfdfe64b99c518f16d9f3c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mtrejo/Documents/android-google-maps-demo/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/72bc8f7fbd38259f0d7ab49a8bb1044f/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/72bc8f7fbd38259f0d7ab49a8bb1044f/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/72bc8f7fbd38259f0d7ab49a8bb1044f/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/mtrejo/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/72bc8f7fbd38259f0d7ab49a8bb1044f/AndroidManifest.xml:24:13-79
