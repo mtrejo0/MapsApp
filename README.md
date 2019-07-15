@@ -7,5 +7,7 @@ This app is a simple use of the Google Maps Android API I used to learn this API
 
 <img src="https://imgur.com/7JBY1H8" width="350" />
 
+https://imgur.com/7JBY1H8
+
 
 
